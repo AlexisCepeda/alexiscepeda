@@ -31,4 +31,4 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,postman,docker,linux,git,github&perline=11" alt="Tech stack icons">
     </a>
  </p>
-div>
+<div>
